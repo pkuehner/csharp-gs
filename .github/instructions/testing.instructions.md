@@ -1,7 +1,7 @@
 ---
 description: "Use when creating or updating backend tests for the turn-based multiplayer game server in .NET 10. Covers business-logic-focused testing, test scope, structure, and anti-patterns."
 name: "Backend Testing Standards"
-applyTo: ["**/*Test*.cs", "**/*.Tests.cs", "**/*.Tests.csproj", "tests/**/*.cs"]
+applyTo: "**/*Test*.cs, **/*.Tests.cs, **/*.Tests.csproj, tests/**/*.cs"
 ---
 # Backend Testing Standards
 
